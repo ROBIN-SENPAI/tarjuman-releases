@@ -1,0 +1,24 @@
+{
+  "version": "0.25.0",
+  "versionCode": 40,
+  "date": "2026-10-12",
+  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-0.25.0-android.apk",
+  "apkName": "Tarjuman-0.25.0-android.apk",
+  "sha256": "39e426c96c08ee3c4dcba80518f026a8d0abf987bf5fb1242006fcab42f53d06",
+  "sizeMB": 68.8,
+  "minAndroid": "7.0",
+  "notes": {
+    "ar": [
+      "يعمل بلا إنترنت: نزّل لغات رحلتك من الإعدادات ← بلا إنترنت، فتعمل ترجمة الكتابة والنطق بلا إنترنت",
+      "138 عبارة جاهزة مترجمة إلى 29 لغة: تظهر وتُنطق فوراً ولو بلا إنترنت",
+      "بطاقة الطوارئ الطبية: حساسيتك وأدويتك وفصيلة دمك بلغة البلد، تريها للطبيب",
+      "إذا انقطع الإنترنت أثناء الترجمة يكمل التطبيق على الهاتف بدل أن يتوقف"
+    ],
+    "en": [
+      "Works offline",
+      "138 ready phrases in 29 languages",
+      "Medical emergency card",
+      "Keeps going when the connection drops"
+    ]
+  }
+}
