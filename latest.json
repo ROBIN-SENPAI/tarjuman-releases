@@ -1,0 +1,26 @@
+{
+  "version": "0.26.5",
+  "versionCode": 46,
+  "date": "2026-10-17",
+  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-0.26.5-android.apk",
+  "apkName": "Tarjuman-0.26.5-android.apk",
+  "sha256": "9de0c10ba462694947d57da72292a52e18ff2809606ecda102861d4bf3dc0615",
+  "sizeMB": 18.2,
+  "minAndroid": "7.0",
+  "notes": {
+    "ar": [
+      "التطبيق أخف بكثير: نحو 19 ميغابايت بدل 69، بلا أي ميزة ناقصة",
+      "لا تداخل في الأصوات بعد اليوم: على مكبر الهاتف تُنطق الترجمات واحدة بعد واحدة، ولا يترجم التطبيق صوته",
+      "990 عبارة جاهزة في 26 قسماً بـ29 لغة، مع بحث، وتعمل بلا إنترنت",
+      "دليل 197 دولة: أرقام الطوارئ بضغطة اتصال، و«اطلب المساعدة بلغتهم»، والعملة والقابس ونصائح للزائر",
+      "زر الإيقاف لا يقطع الترجمة الأخيرة، ووضع الاستماع لا يُضيّع كلام المحاضِر"
+    ],
+    "en": [
+      "Much smaller download",
+      "No more overlapping voices",
+      "990 ready phrases in 29 languages",
+      "Country guide for 197 countries and regions",
+      "Stop no longer cuts the last translation"
+    ]
+  }
+}
