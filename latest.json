@@ -1,26 +1,26 @@
 {
-  "version": "0.26.5",
-  "versionCode": 46,
-  "date": "2026-10-17",
-  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-0.26.5-android.apk",
-  "apkName": "Tarjuman-0.26.5-android.apk",
-  "sha256": "9de0c10ba462694947d57da72292a52e18ff2809606ecda102861d4bf3dc0615",
-  "sizeMB": 18.2,
+  "version": "1.0.0",
+  "versionCode": 100,
+  "date": "2026-10-26",
+  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.0-android.apk",
+  "apkName": "Tarjuman-1.0.0-android.apk",
+  "sha256": "1429b41e34a8e475588109c3ba322d2162ae576c8924677b0b1b3b2dbebb3c90",
+  "sizeMB": 32.3,
   "minAndroid": "7.0",
   "notes": {
     "ar": [
-      "التطبيق أخف بكثير: نحو 19 ميغابايت بدل 69، بلا أي ميزة ناقصة",
-      "لا تداخل في الأصوات بعد اليوم: على مكبر الهاتف تُنطق الترجمات واحدة بعد واحدة، ولا يترجم التطبيق صوته",
-      "990 عبارة جاهزة في 26 قسماً بـ29 لغة، مع بحث، وتعمل بلا إنترنت",
-      "دليل 197 دولة: أرقام الطوارئ بضغطة اتصال، و«اطلب المساعدة بلغتهم»، والعملة والقابس ونصائح للزائر",
-      "زر الإيقاف لا يقطع الترجمة الأخيرة، ووضع الاستماع لا يُضيّع كلام المحاضِر"
+      "تطبيق جديد بالكامل: أسرع وأسلس، بتصميم جديد",
+      "الترجمة الحية بالعربية الفصحى، وبالسرعة نفسها",
+      "وضع الغرفة: عدة أشخاص، كلٌّ يسمع الآخرين بلغته",
+      "«ترجم بتُرجُمَان» في قائمة النسخ في كل التطبيقات",
+      "مفتاحك وإعداداتك ومحادثاتك تنتقل معك تلقائياً"
     ],
     "en": [
-      "Much smaller download",
-      "No more overlapping voices",
-      "990 ready phrases in 29 languages",
-      "Country guide for 197 countries and regions",
-      "Stop no longer cuts the last translation"
+      "A completely new app: faster, smoother, newly designed",
+      "Live translation into Modern Standard Arabic, just as fast",
+      "Rooms: several people, each hears the others in their language",
+      "Translate with Tarjuman from the copy menu in every app",
+      "Your key, settings and conversations move over automatically"
     ]
   }
 }

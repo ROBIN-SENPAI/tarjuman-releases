@@ -1,22 +1,22 @@
 # Tarjuman for Android
 
-Signed Android builds of **Tarjuman (تُرجُمَان)**, a live voice translation app: two people share one pair of earphones and each hears the other in their own language. The source code is private; this repository only hosts the latest release.
+Signed Android builds of **Tarjuman (تُرجُمَان)**, a native Android live voice translation app: two people share one pair of earphones and each hears the other in their own language. The source code is private; this repository only hosts the latest release.
 
 ## Download
 
-**Version 0.26.5** · 2026-10-17 · 18.2 MB
+**Version 1.0.0** · 2026-10-26 · 32.3 MB
 
-### [⬇ Download Tarjuman-0.26.5-android.apk](https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-0.26.5-android.apk)
+### [⬇ Download Tarjuman-1.0.0-android.apk](https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.0-android.apk)
 
-SHA-256: `9de0c10ba462694947d57da72292a52e18ff2809606ecda102861d4bf3dc0615`
+SHA-256: `1429b41e34a8e475588109c3ba322d2162ae576c8924677b0b1b3b2dbebb3c90`
 
 ### What's new
 
-- Much smaller download
-- No more overlapping voices
-- 990 ready phrases in 29 languages
-- Country guide for 197 countries and regions
-- Stop no longer cuts the last translation
+- A completely new app: faster, smoother, newly designed
+- Live translation into Modern Standard Arabic, just as fast
+- Rooms: several people, each hears the others in their language
+- Translate with Tarjuman from the copy menu in every app
+- Your key, settings and conversations move over automatically
 
 ## Install
 
