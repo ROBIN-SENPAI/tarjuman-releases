@@ -4,19 +4,17 @@ Signed Android builds of **Tarjuman (تُرجُمَان)**, a native Android liv
 
 ## Download
 
-**Version 1.0.0** · 2026-10-26 · 32.3 MB
+**Version 1.0.1** · 2026-10-27 · 32.3 MB
 
-### [⬇ Download Tarjuman-1.0.0-android.apk](https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.0-android.apk)
+### [⬇ Download Tarjuman-1.0.1-android.apk](https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.1-android.apk)
 
-SHA-256: `1429b41e34a8e475588109c3ba322d2162ae576c8924677b0b1b3b2dbebb3c90`
+SHA-256: `716bf03ecd4037cb7f1e4b811d3bc443b501322684ca13b5b7521f6778895d53`
 
-### What's new
+### What’s new
 
-- A completely new app: faster, smoother, newly designed
-- Live translation into Modern Standard Arabic, just as fast
-- Rooms: several people, each hears the others in their language
-- Translate with Tarjuman from the copy menu in every app
-- Your key, settings and conversations move over automatically
+- On the phone speaker: “Wait… the translation is playing” so you know when to talk
+- Echo cancellation (experimental) in sound settings: the mic stays open, no waiting
+- Download offline languages right from the language picker
 
 ## Install
 

@@ -1,26 +1,22 @@
 {
-  "version": "1.0.0",
-  "versionCode": 100,
-  "date": "2026-10-26",
-  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.0-android.apk",
-  "apkName": "Tarjuman-1.0.0-android.apk",
-  "sha256": "1429b41e34a8e475588109c3ba322d2162ae576c8924677b0b1b3b2dbebb3c90",
+  "version": "1.0.1",
+  "versionCode": 101,
+  "date": "2026-10-27",
+  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.1-android.apk",
+  "apkName": "Tarjuman-1.0.1-android.apk",
+  "sha256": "716bf03ecd4037cb7f1e4b811d3bc443b501322684ca13b5b7521f6778895d53",
   "sizeMB": 32.3,
   "minAndroid": "7.0",
   "notes": {
     "ar": [
-      "تطبيق جديد بالكامل: أسرع وأسلس، بتصميم جديد",
-      "الترجمة الحية بالعربية الفصحى، وبالسرعة نفسها",
-      "وضع الغرفة: عدة أشخاص، كلٌّ يسمع الآخرين بلغته",
-      "«ترجم بتُرجُمَان» في قائمة النسخ في كل التطبيقات",
-      "مفتاحك وإعداداتك ومحادثاتك تنتقل معك تلقائياً"
+      "على مكبّر الهاتف: «انتظر… الترجمة تُنطق» حتى تعرف متى تتكلم",
+      "إلغاء الصدى (تجريبي) في إعدادات الصوت: الميكروفون يبقى مفتوحاً بلا انتظار",
+      "تنزيل اللغات للعمل بلا إنترنت من قائمة اختيار اللغة مباشرة"
     ],
     "en": [
-      "A completely new app: faster, smoother, newly designed",
-      "Live translation into Modern Standard Arabic, just as fast",
-      "Rooms: several people, each hears the others in their language",
-      "Translate with Tarjuman from the copy menu in every app",
-      "Your key, settings and conversations move over automatically"
+      "On the phone speaker: “Wait… the translation is playing” so you know when to talk",
+      "Echo cancellation (experimental) in sound settings: the mic stays open, no waiting",
+      "Download offline languages right from the language picker"
     ]
   }
 }
