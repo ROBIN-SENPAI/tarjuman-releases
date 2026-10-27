@@ -4,17 +4,19 @@ Signed Android builds of **Tarjuman (تُرجُمَان)**, a native Android liv
 
 ## Download
 
-**Version 1.0.1** · 2026-10-27 · 32.3 MB
+**Version 1.0.2** · 2026-10-28 · 32.3 MB
 
-### [⬇ Download Tarjuman-1.0.1-android.apk](https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.1-android.apk)
+### [⬇ Download Tarjuman-1.0.2-android.apk](https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.2-android.apk)
 
-SHA-256: `716bf03ecd4037cb7f1e4b811d3bc443b501322684ca13b5b7521f6778895d53`
+SHA-256: `26b1dd807ef316b6eeec499977ba5fe2f20db5ffe34c2094bcb62159cd9a5bdd`
 
 ### What’s new
 
-- On the phone speaker: “Wait… the translation is playing” so you know when to talk
-- Echo cancellation (experimental) in sound settings: the mic stays open, no waiting
-- Download offline languages right from the language picker
+- Live translation: no two voices at once, the phone never translates itself
+- Much faster photo translation; the camera no longer closes the app
+- Persian and Urdu text displays correctly
+- Clearer rooms page and emergency card
+- Offline: every language listed, Huawei phones included
 
 ## Install
 

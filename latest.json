@@ -1,22 +1,26 @@
 {
-  "version": "1.0.1",
-  "versionCode": 101,
-  "date": "2026-10-27",
-  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.1-android.apk",
-  "apkName": "Tarjuman-1.0.1-android.apk",
-  "sha256": "716bf03ecd4037cb7f1e4b811d3bc443b501322684ca13b5b7521f6778895d53",
+  "version": "1.0.2",
+  "versionCode": 102,
+  "date": "2026-10-28",
+  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.2-android.apk",
+  "apkName": "Tarjuman-1.0.2-android.apk",
+  "sha256": "26b1dd807ef316b6eeec499977ba5fe2f20db5ffe34c2094bcb62159cd9a5bdd",
   "sizeMB": 32.3,
   "minAndroid": "7.0",
   "notes": {
     "ar": [
-      "على مكبّر الهاتف: «انتظر… الترجمة تُنطق» حتى تعرف متى تتكلم",
-      "إلغاء الصدى (تجريبي) في إعدادات الصوت: الميكروفون يبقى مفتوحاً بلا انتظار",
-      "تنزيل اللغات للعمل بلا إنترنت من قائمة اختيار اللغة مباشرة"
+      "الترجمة الحية: لا صوتان معاً، ولا يترجم الهاتف صوته هو",
+      "ترجمة الصور أسرع بكثير، والكاميرا لا تغلق التطبيق",
+      "الفارسية والأردية تُكتبان صحيحة",
+      "قسم الغرف وبطاقة الطوارئ أوضح",
+      "بلا إنترنت: كل اللغات تظهر حتى على هواتف Huawei"
     ],
     "en": [
-      "On the phone speaker: “Wait… the translation is playing” so you know when to talk",
-      "Echo cancellation (experimental) in sound settings: the mic stays open, no waiting",
-      "Download offline languages right from the language picker"
+      "Live translation: no two voices at once, the phone never translates itself",
+      "Much faster photo translation; the camera no longer closes the app",
+      "Persian and Urdu text displays correctly",
+      "Clearer rooms page and emergency card",
+      "Offline: every language listed, Huawei phones included"
     ]
   }
 }
