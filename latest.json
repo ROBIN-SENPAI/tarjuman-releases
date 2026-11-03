@@ -1,22 +1,18 @@
 {
-  "version": "1.0.3",
-  "versionCode": 103,
+  "version": "1.0.4",
+  "versionCode": 104,
   "date": "2026-11-03",
-  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.3-android.apk",
-  "apkName": "Tarjuman-1.0.3-android.apk",
-  "sha256": "22e7df655f0da1093dc384755a25a504894395e3372116ac131e464c54a10da6",
+  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.4-android.apk",
+  "apkName": "Tarjuman-1.0.4-android.apk",
+  "sha256": "463a0b81137af8996861f09bbc906b3656d5689eff0fa6f971b84d9580102e1e",
   "sizeMB": 32.3,
   "minAndroid": "7.0",
   "notes": {
     "ar": [
-      "الكاميرا والمعرض تعملان على كل الهواتف",
-      "الغرفة: يُسمع من يتكلم بلغتك مباشرة",
-      "خلفية الواجهة الرئيسية متحركة وتتجاوب مع صوتك"
+      "خلفية الواجهة الرئيسية سوداء وبرتقالية فقط"
     ],
     "en": [
-      "Camera and gallery work on every phone",
-      "Rooms: someone speaking your language is heard directly",
-      "A living home background that reacts to your voice"
+      "The home background is now black and orange only"
     ]
   }
 }

@@ -4,17 +4,15 @@ Signed Android builds of **Tarjuman (تُرجُمَان)**, a native Android liv
 
 ## Download
 
-**Version 1.0.3** · 2026-11-03 · 32.3 MB
+**Version 1.0.4** · 2026-11-03 · 32.3 MB
 
-### [⬇ Download Tarjuman-1.0.3-android.apk](https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.3-android.apk)
+### [⬇ Download Tarjuman-1.0.4-android.apk](https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.4-android.apk)
 
-SHA-256: `22e7df655f0da1093dc384755a25a504894395e3372116ac131e464c54a10da6`
+SHA-256: `463a0b81137af8996861f09bbc906b3656d5689eff0fa6f971b84d9580102e1e`
 
 ### What’s new
 
-- Camera and gallery work on every phone
-- Rooms: someone speaking your language is heard directly
-- A living home background that reacts to your voice
+- The home background is now black and orange only
 
 ## Install
 
