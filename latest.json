@@ -1,26 +1,22 @@
 {
-  "version": "1.0.2",
-  "versionCode": 102,
-  "date": "2026-10-28",
-  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.2-android.apk",
-  "apkName": "Tarjuman-1.0.2-android.apk",
-  "sha256": "26b1dd807ef316b6eeec499977ba5fe2f20db5ffe34c2094bcb62159cd9a5bdd",
+  "version": "1.0.3",
+  "versionCode": 103,
+  "date": "2026-11-03",
+  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.3-android.apk",
+  "apkName": "Tarjuman-1.0.3-android.apk",
+  "sha256": "22e7df655f0da1093dc384755a25a504894395e3372116ac131e464c54a10da6",
   "sizeMB": 32.3,
   "minAndroid": "7.0",
   "notes": {
     "ar": [
-      "الترجمة الحية: لا صوتان معاً، ولا يترجم الهاتف صوته هو",
-      "ترجمة الصور أسرع بكثير، والكاميرا لا تغلق التطبيق",
-      "الفارسية والأردية تُكتبان صحيحة",
-      "قسم الغرف وبطاقة الطوارئ أوضح",
-      "بلا إنترنت: كل اللغات تظهر حتى على هواتف Huawei"
+      "الكاميرا والمعرض تعملان على كل الهواتف",
+      "الغرفة: يُسمع من يتكلم بلغتك مباشرة",
+      "خلفية الواجهة الرئيسية متحركة وتتجاوب مع صوتك"
     ],
     "en": [
-      "Live translation: no two voices at once, the phone never translates itself",
-      "Much faster photo translation; the camera no longer closes the app",
-      "Persian and Urdu text displays correctly",
-      "Clearer rooms page and emergency card",
-      "Offline: every language listed, Huawei phones included"
+      "Camera and gallery work on every phone",
+      "Rooms: someone speaking your language is heard directly",
+      "A living home background that reacts to your voice"
     ]
   }
 }
