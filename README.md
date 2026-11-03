@@ -4,15 +4,15 @@ Signed Android builds of **Tarjuman (تُرجُمَان)**, a native Android liv
 
 ## Download
 
-**Version 1.0.4** · 2026-11-03 · 32.3 MB
+**Version 1.0.5** · 2026-11-03 · 32.3 MB
 
-### [⬇ Download Tarjuman-1.0.4-android.apk](https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.4-android.apk)
+### [⬇ Download Tarjuman-1.0.5-android.apk](https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.5-android.apk)
 
-SHA-256: `463a0b81137af8996861f09bbc906b3656d5689eff0fa6f971b84d9580102e1e`
+SHA-256: `39200c295bbd50047425333625769dbe873e46b1b2578ba5fb33559ae7edb5ac`
 
 ### What’s new
 
-- The home background is now black and orange only
+- New background: orange sound rings widen from the logo and react to your voice
 
 ## Install
 
