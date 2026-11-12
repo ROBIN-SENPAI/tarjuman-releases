@@ -8,7 +8,7 @@ Signed Android builds of **Tarjuman (تُرجُمَان)**, a native Android liv
 
 ### [⬇ Download Tarjuman-1.0.7-android.apk](https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.7-android.apk)
 
-SHA-256: `dc9f03388afccf9b3adde8e51bd78c4d39ebd55517b245e885caf6c63a458d80`
+SHA-256: `91dd248c6027985ea6fc4217fff320dd7c4a43eab49e1653a808069b0e12ccf6`
 
 ### What’s new
 
