@@ -1,18 +1,24 @@
 {
-  "version": "1.0.6",
-  "versionCode": 106,
-  "date": "2026-11-03",
-  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.6-android.apk",
-  "apkName": "Tarjuman-1.0.6-android.apk",
-  "sha256": "dc9f03388afccf9b3adde8e51bd78c4d39ebd55517b245e885caf6c63a458d80",
-  "sizeMB": 32.3,
+  "version": "1.0.7",
+  "versionCode": 107,
+  "date": "2026-11-13",
+  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.7-android.apk",
+  "apkName": "Tarjuman-1.0.7-android.apk",
+  "sha256": "91dd248c6027985ea6fc4217fff320dd7c4a43eab49e1653a808069b0e12ccf6",
+  "sizeMB": 32.4,
   "minAndroid": "7.0",
   "notes": {
     "ar": [
-      "خلفية جديدة: جمر برتقالي يصعد ببطء ويتوهج مع صوتك"
+      "إصلاح ترجمة الصور: الكاميرا والمعرض يعملان الآن",
+      "الغرف: اختر اللغة التي تسمع بها، واكتم أي عضو، وشاهد من يتكلم",
+      "أكثر من 200 عبارة جاهزة جديدة بكل اللغات",
+      "البطاقة الطبية: تاريخ الميلاد ورقم التأمين وحساسيات وأمراض أكثر"
     ],
     "en": [
-      "New background: orange embers rise slowly and glow with your voice"
+      "Photo translation fixed: the camera and the gallery now work",
+      "Rooms: choose the language you hear, mute any member, see who is speaking",
+      "More than 200 new ready phrases in every language",
+      "Medical card: date of birth, insurance number, more allergies and conditions"
     ]
   }
 }
