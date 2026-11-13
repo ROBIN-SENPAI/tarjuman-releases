@@ -1,24 +1,22 @@
 {
-  "version": "1.0.7",
-  "versionCode": 107,
+  "version": "1.0.8",
+  "versionCode": 108,
   "date": "2026-11-13",
-  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.7-android.apk",
-  "apkName": "Tarjuman-1.0.7-android.apk",
-  "sha256": "91dd248c6027985ea6fc4217fff320dd7c4a43eab49e1653a808069b0e12ccf6",
+  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.8-android.apk",
+  "apkName": "Tarjuman-1.0.8-android.apk",
+  "sha256": "45508a1e3ea1f6b329d9c9664a3ea4ce2503c2c41e8db90ef4b1dac131a66fe2",
   "sizeMB": 32.4,
   "minAndroid": "7.0",
   "notes": {
     "ar": [
-      "إصلاح ترجمة الصور: الكاميرا والمعرض يعملان الآن",
-      "الغرف: اختر اللغة التي تسمع بها، واكتم أي عضو، وشاهد من يتكلم",
-      "أكثر من 200 عبارة جاهزة جديدة بكل اللغات",
-      "البطاقة الطبية: تاريخ الميلاد ورقم التأمين وحساسيات وأمراض أكثر"
+      "الغرف: منشئ الغرفة يستطيع إخراج عضو وقفل الغرفة",
+      "ترجمة أدق إلى العربية الفصحى بلا كلمات عامية",
+      "تصحيح أكثر من 150 عبارة جاهزة في 27 لغة"
     ],
     "en": [
-      "Photo translation fixed: the camera and the gallery now work",
-      "Rooms: choose the language you hear, mute any member, see who is speaking",
-      "More than 200 new ready phrases in every language",
-      "Medical card: date of birth, insurance number, more allergies and conditions"
+      "Rooms: the creator can remove a member and lock the room",
+      "Cleaner Modern Standard Arabic, without dialect words",
+      "More than 150 ready phrases corrected across 27 languages"
     ]
   }
 }

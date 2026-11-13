@@ -4,11 +4,11 @@ Signed Android builds of **Tarjuman (تُرجُمَان)**, a native Android liv
 
 ## Download
 
-**Version 1.0.7** · 2026-11-13 · 32.4 MB
+**Version 1.0.8** · 2026-11-13 · 32.4 MB
 
-### [⬇ Download Tarjuman-1.0.7-android.apk](https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.7-android.apk)
+### [⬇ Download Tarjuman-1.0.8-android.apk](https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.8-android.apk)
 
-SHA-256: `91dd248c6027985ea6fc4217fff320dd7c4a43eab49e1653a808069b0e12ccf6`
+SHA-256: `45508a1e3ea1f6b329d9c9664a3ea4ce2503c2c41e8db90ef4b1dac131a66fe2`
 
 ### What’s new
 
