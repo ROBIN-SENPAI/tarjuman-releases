@@ -1,20 +1,20 @@
 {
-  "version": "1.0.9",
-  "versionCode": 109,
+  "version": "1.0.10",
+  "versionCode": 110,
   "date": "2026-11-14",
-  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.9-android.apk",
-  "apkName": "Tarjuman-1.0.9-android.apk",
-  "sha256": "d9a1f848296e539a59c301c92122962cd72e1f41f6d7ada6669d69d92e99e347",
+  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.10-android.apk",
+  "apkName": "Tarjuman-1.0.10-android.apk",
+  "sha256": "cbd5ba7e149f38d90a6d27fb9bfb05f55affad3037036ded60bbf70d7e7f8716",
   "sizeMB": 32.4,
   "minAndroid": "7.0",
   "notes": {
     "ar": [
-      "التحديث من داخل التطبيق: تنزيل وتثبيت بضغطة واحدة بلا متصفح",
-      "شريط تقدّم أثناء التنزيل، والتحقق من سلامة الملف قبل التثبيت"
+      "تجهيز نظام الحسابات: تسجيل الدخول برمز يصل إلى البريد وصفحة «حسابك»",
+      "تحسينات داخلية وتحديث الأمان"
     ],
     "en": [
-      "Update from inside the app: download and install with one tap, no browser",
-      "A progress bar while downloading, and the file is verified before installing"
+      "Accounts groundwork: sign in with an emailed code, and a «Your account» page",
+      "Internal improvements and security updates"
     ]
   }
 }
