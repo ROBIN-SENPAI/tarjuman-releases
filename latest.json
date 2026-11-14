@@ -1,20 +1,20 @@
 {
-  "version": "1.0.10",
-  "versionCode": 110,
+  "version": "1.0.11",
+  "versionCode": 111,
   "date": "2026-11-14",
-  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.10-android.apk",
-  "apkName": "Tarjuman-1.0.10-android.apk",
-  "sha256": "cbd5ba7e149f38d90a6d27fb9bfb05f55affad3037036ded60bbf70d7e7f8716",
+  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.11-android.apk",
+  "apkName": "Tarjuman-1.0.11-android.apk",
+  "sha256": "515a539e92664b16dd40d8e5c7321008198062855b1dea3bfa22bddaba224c48",
   "sizeMB": 32.4,
   "minAndroid": "7.0",
   "notes": {
     "ar": [
-      "تجهيز نظام الحسابات: تسجيل الدخول برمز يصل إلى البريد وصفحة «حسابك»",
-      "تحسينات داخلية وتحديث الأمان"
+      "لا حاجة بعد الآن لمفتاح Gemini: الترجمة تعمل بحسابك مباشرة",
+      "الدخول بالبريد مطلوب لتشغيل الترجمة الحية، مع 10 دقائق تجريبية"
     ],
     "en": [
-      "Accounts groundwork: sign in with an emailed code, and a «Your account» page",
-      "Internal improvements and security updates"
+      "No Gemini key needed any more: translation works through your account",
+      "Signing in with email is required for live translation, with 10 trial minutes"
     ]
   }
 }
