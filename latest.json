@@ -1,22 +1,20 @@
 {
-  "version": "1.0.8",
-  "versionCode": 108,
-  "date": "2026-11-13",
-  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.8-android.apk",
-  "apkName": "Tarjuman-1.0.8-android.apk",
-  "sha256": "45508a1e3ea1f6b329d9c9664a3ea4ce2503c2c41e8db90ef4b1dac131a66fe2",
+  "version": "1.0.9",
+  "versionCode": 109,
+  "date": "2026-11-14",
+  "apk": "https://raw.githubusercontent.com/ROBIN-SENPAI/tarjuman-releases/main/Tarjuman-1.0.9-android.apk",
+  "apkName": "Tarjuman-1.0.9-android.apk",
+  "sha256": "d9a1f848296e539a59c301c92122962cd72e1f41f6d7ada6669d69d92e99e347",
   "sizeMB": 32.4,
   "minAndroid": "7.0",
   "notes": {
     "ar": [
-      "الغرف: منشئ الغرفة يستطيع إخراج عضو وقفل الغرفة",
-      "ترجمة أدق إلى العربية الفصحى بلا كلمات عامية",
-      "تصحيح أكثر من 150 عبارة جاهزة في 27 لغة"
+      "التحديث من داخل التطبيق: تنزيل وتثبيت بضغطة واحدة بلا متصفح",
+      "شريط تقدّم أثناء التنزيل، والتحقق من سلامة الملف قبل التثبيت"
     ],
     "en": [
-      "Rooms: the creator can remove a member and lock the room",
-      "Cleaner Modern Standard Arabic, without dialect words",
-      "More than 150 ready phrases corrected across 27 languages"
+      "Update from inside the app: download and install with one tap, no browser",
+      "A progress bar while downloading, and the file is verified before installing"
     ]
   }
 }
